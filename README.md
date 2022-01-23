@@ -2,6 +2,6 @@
 
 I spend my weekdays writing software for Amazon. 
 
-Currently reading [Web Security for Developers](https://nostarch.com/websecurity), [Working Effectively with Legacy Code](https://www.oreilly.com/library/view/working-effectively-with/0131177052/), and [Kill it with Fire](https://nostarch.com/kill-it-fire). 
+Currently reading [Kill it with Fire](https://nostarch.com/kill-it-fire) and [Seven Databases in Seven Weeks](https://pragprog.com/titles/pwrdata/seven-databases-in-seven-weeks-second-edition/). 
 
 No side projects at the moment.
